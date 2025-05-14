@@ -1,4 +1,4 @@
-local HttpService = game:GetService("HttpService")
+.lualocal HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 
 local wasPrehistoric = false
